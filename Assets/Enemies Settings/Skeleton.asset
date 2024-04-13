@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d794acaa7e7ddbf41b63953a814ea283, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: 
+  MaxHealth: 5
+  AttackClip: {fileID: 8300000, guid: 4956ffe3ea3bc5848b5390dbf40557b9, type: 3}
+  HitClip: {fileID: 8300000, guid: 1e88580652dc5194f97472ba8ae5b72c, type: 3}
+  DeathClip: {fileID: 8300000, guid: 059667fc7d18fe34387cb53ef708699d, type: 3}
+  _minMovementSpeed: 3
+  _maxMovementSpeed: 4
+  _minDamage: 2
+  _maxDamage: 3
+  _weight: 50

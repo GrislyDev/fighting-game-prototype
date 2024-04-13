@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37ed17fada29a734fb00c9897fad02ec, type: 3}
+  m_Name: PlayerSettings
+  m_EditorClassIdentifier: 
+  MaxHealth: 10
+  AttackRange: 4.5
+  AttackClip: {fileID: 8300000, guid: f58e481e07f6a954cb0036b67ce99335, type: 3}
+  HitClip: {fileID: 8300000, guid: 75d16e2723b93de4fbefa58679252b66, type: 3}
+  DeathClip: {fileID: 8300000, guid: b091d3caaf27cc74a9aa1ce8f134741a, type: 3}
+  _minDamage: 2
+  _maxDamage: 4
